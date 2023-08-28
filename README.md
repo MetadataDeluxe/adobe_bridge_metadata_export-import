@@ -29,7 +29,7 @@ This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.
       - Go to Adobe Bridge --> Preferences --> Startup Scripts
 	  
  3. Click "Reveal My Startup Scripts".  This will open the correct folder
- 4. In this folder, copy the the downloaded file "metadata_export_import.jsx"
+ 4. In this folder, copy the the downloaded file "metadata_export_import[version].jsx"
  5. Close the folder
  6. Quit Bridge
  7. Start Bridge
