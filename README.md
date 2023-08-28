@@ -7,10 +7,10 @@ Media files and metadata are matched by file name and file path.
 In the script window, click the "?" button for instructions
 
 Default metadata field sets:
- - Basic (commonly used fields)
- - IPTC Core
- - Dublin Core
- - VRA Core (artworks/visual culture)
+ - Basic (Title, Creator, Description, Keywords, Lightroom-Keywords, Copyright Notice, Copyright Status, File-Date Created, File-Date Modified, File-Date Original)
+ - [IPTC Core](https://www.iptc.org/std/photometadata/specification/IPTC-PhotoMetadata#iptc-core-schema-1-4-specifications)
+ - [Dublin Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3)
+ - [VRA Core (artworks/visual culture)](https://docs.google.com/spreadsheets/d/1f4UU-4tnlq_DlqgcQ2xYHsKfvp3tP-82Re5hr0WsTZw/edit?usp=sharing)
  
 This list can be edited and custom field sets can be added. See **Customize Metadata Fields** below for more details.
 
