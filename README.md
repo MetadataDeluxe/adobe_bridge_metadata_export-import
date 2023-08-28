@@ -1,6 +1,8 @@
 # Metadata Export-Import
 
-This JavaScript plugin for Adobe Bridge 2015 and higher exports and imports XMP metadata embedded in media files using a tab-delimited text file. Media files and metadata are matched by file name.
+This JavaScript plugin for Adobe Bridge 2015 and higher exports and imports XMP metadata embedded in media files using a tab-delimited text file. 
+
+Media files and metadata are matched by file name and file path.
 
 In the script window, click the "?" button for instructions
 
