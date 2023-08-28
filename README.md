@@ -1,6 +1,6 @@
 # Metadata Export-Import
 
-This JavaScript plugin for Adobe Bridge 2015 and higher exports and imports XMP metadata embedded in media files using a tab-delimited text file. 
+This is a JavaScript extension for [Adobe Bridge](https://www.adobe.com/products/bridge.html) 2015 and higher exports and imports XMP metadata embedded in media files using a tab-delimited text file. 
 
 Media files and metadata are matched by file name and file path.
 
@@ -15,6 +15,8 @@ Default metadata field sets:
 This list can be edited and custom field sets can be added. See **Customize Metadata Fields** below for more details.
 
 Supported file types: ai, avi, bmp, dng, flv, gif, indd, indt, jpg, mp2, mp3, mp4, mov, pdf, png, psd, swf, tif, wav, wma, wmv, xmp, and RAW files using XMP sidecar
+
+This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.html) and utilizes the [Adobe Bridge XMP scripting API](https://estk.aenhancers.com/10%20-%20Scripting%20Access%20to%20XMP%20Metadata/accessing-the-xmp-scripting-api.html)
 
 ## Installation
  1. Start Adobe Bridge
