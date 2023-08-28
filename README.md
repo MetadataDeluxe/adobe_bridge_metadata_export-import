@@ -35,7 +35,7 @@ This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.
  7. Start Bridge
  8. When prompted, confirm the installation of "metadata_export_import"
 
-## Open the plugin in Adobe Bridge
+## Open the script in Adobe Bridge
   1. Locate the "Metadata Deluxe" menu at the top of the Bridge window
   2. Click "Export-Import" on the dropdown
   3. Select which Metadata Fields to use
