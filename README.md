@@ -1,4 +1,4 @@
-# Metadata Export-Import
+# Adobe Bridge Metadata Export-Import
 
 This is a JavaScript extension for [Adobe Bridge](https://www.adobe.com/products/bridge.html) 2015 and higher exports and imports [XMP metadata](https://www.adobe.com/products/xmp.html) embedded in media files using a tab-delimited text file (spreadsheet).
 
